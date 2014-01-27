@@ -1,0 +1,21 @@
+{
+  "name": "jToggler",
+  "main": "jToggler.js",
+  "version": "1.0.0",
+  "authors": [
+    "Ciki <matula.m@gmail.com>"
+  ],
+  "description": "jQuery toggler plugin",
+  "keywords": [
+    "jQuery",
+    "jQuery",
+    "plugin",
+    "toggler",
+    "toggle"
+  ],
+  "dependencies": {
+    "jquery": ">1.9"
+  },
+  "license": "MIT",
+  "homepage": "http://www.github.com/Ciki/jToggler"
+}
